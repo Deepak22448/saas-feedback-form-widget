@@ -17,7 +17,7 @@ This project provides a customizable feedback form web component built with Reac
 - **Clone Repository**
 
 ```bash
-git clone https://github.com/USER-NAME/saas-feedback-from-widget
+git clone https://github.com/USER-NAME/saas-feedback-form-widget
 ```
 
 - **Install Dependencies**
