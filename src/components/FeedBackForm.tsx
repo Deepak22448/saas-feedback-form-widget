@@ -22,6 +22,7 @@ export const FeedBackForm: FC<FeedBackFormProps> = ({ projectId }) => {
             </Button>
           </PopoverTrigger>
           <PopoverContent className="widget rounded-lg bg-card p-4 shadow-lg w-full max-w-md">
+            {<style>{tailwindStyles}</style>}
             <Form projectId={projectId} />
           </PopoverContent>
         </Popover>
